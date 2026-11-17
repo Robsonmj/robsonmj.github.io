@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.robsonmj.combustivelbarato",
+      "sha256_cert_fingerprints": [
+        "A1:89:36:7D:99:75:0A:A0:01:B4:23:6E:64:DC:E7:40:4A:48:32:C7:D0:19:8B:88:82:10:8E:5C:2A:46:83:C8"
+      ]
+    }
+  }
+]
